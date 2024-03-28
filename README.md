@@ -1,6 +1,6 @@
 # Innovative Drone Insurance Pricing Model
 
-This is an innovative drone insurance pricing model developed during the Hacklytics event at Georgia Tech, where it emerged as the Track Winner for Assurant’s Challenge #2. This project optimizes the conventional approach to drone insurance pricing, offering a predictive analysis model that not only enhances accuracy but also provides significant cost reductions ranging from 5% to 30%.
+This is an innovative drone insurance pricing model developed during the Hacklytics event at Georgia Tech, where it emerged as the Track Winner for Assurant’s Challenge #2. This project optimizes the conventional approach to drone insurance pricing, offering a predictive analysis model that not only enhances accuracy but also provides significant cost reductions ranging from 5% to 30%. You can check-out my presentation here: https://www.canva.com/design/DAF_lOHvMXU/humKkEG-P1O7yyRIa8baVA/edit?utm_content=DAF_lOHvMXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 It's is my own spin-off to the original version developed by me and my teammate called **FlightShield** (https://github.com/Shaashvat01/FlightShield) where I was responsible for handling and processing data through SAS (Regression) and geenrate synthetic datasets (Python).
 
